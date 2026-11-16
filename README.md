@@ -17,8 +17,10 @@
 
 ---
 
-### 📊 GitHub Stats
+### 🎯 Current Goals
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=SalihErmin&show_icons=true&theme=tokyonight" alt="SalihErmin's GitHub Stats" />
-</p>
+- 📌 Mastering **Object-Oriented Programming (OOP)** in Java
+- 📌 Solving algorithmic problems regularly to build strong analytical thinking
+- 📌 Developing and sharing my first open-source beginner projects here
+
+
